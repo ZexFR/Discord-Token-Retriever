@@ -9,6 +9,11 @@
 ## Goals
 - 15⋆ Will make a discord tool to change pfp etc...
 
+## Pictures 
+
+![image](https://user-images.githubusercontent.com/90112340/185755812-fe5bb15a-73a2-40a6-9009-4ea6a37b3fc9.png)
+
+
 ### Socials
 
 * [Youtube](https://www.youtube.com/channel/UCaMOw0q18gUbw2OAIfv4qMQ)
