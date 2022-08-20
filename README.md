@@ -2,7 +2,7 @@
 
  
 ## Features
-- Request based token retriever
+- Requests based token retriever
 - Selenium based token retriever
 
 
